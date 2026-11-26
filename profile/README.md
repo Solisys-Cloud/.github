@@ -12,7 +12,7 @@ Solisys is the consultancy of Olivier Lumeau, Senior Azure and Microsoft 365 Arc
 | [azure-bicep-hub-spoke](https://github.com/Solisys-Cloud/azure-bicep-hub-spoke) | Hub and spoke network in Bicep: optional Azure Firewall, Bastion and VPN gateway, private Key Vault through Private Link | [Hub and Spoke in Bicep](https://www.solisys.be/blog/azure-bicep-hub-spoke/) |
 | [azure-terraform-devops-lab](https://github.com/Solisys-Cloud/azure-terraform-devops-lab) | Hands-on Azure labs with Terraform: networking fundamentals, guides and a validation workflow | [Two Azure Subnets, Two NSGs](https://www.solisys.be/blog/two-azure-subnets-two-nsgs/) |
 | [terraform-azurerm-network](https://github.com/Solisys-Cloud/terraform-azurerm-network) | Reusable Terraform module for an Azure virtual network, subnets and NSGs, versioned with Git tags | [One Terraform Module, Two Azure Environments](https://www.solisys.be/blog/one-terraform-module-two-azure-environments/) |
-| [azure-static-web-app-starter](https://github.com/Solisys-Cloud/azure-static-web-app-starter) | Starter to publish a professional one-page website on Azure Static Web Apps, with IaC and CI/CD | |
+| [azure-static-web-app-starter](https://github.com/Solisys-Cloud/azure-static-web-app-starter) | Starter to publish a professional one-page website on Azure Static Web Apps, with IaC and CI/CD | [A Professional Website on Azure Static Web Apps](https://www.solisys.be/blog/azure-static-web-app-starter/) |
 
 ## Entra ID and identity
 
