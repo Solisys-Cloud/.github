@@ -18,7 +18,7 @@ Solisys is the consultancy of Olivier Lumeau, Senior Azure and Microsoft 365 Arc
 
 | Repository | What it is | Related article |
 |---|---|---|
-| [entra-admin-exposure-check](https://github.com/Solisys-Cloud/entra-admin-exposure-check) | Read-only PowerShell check of how exposed your Entra ID administrators are to phishing: contacts, privileged roles, phishing-resistant MFA | |
+| [entra-admin-exposure-check](https://github.com/Solisys-Cloud/entra-admin-exposure-check) | Read-only PowerShell check of how exposed your Entra ID administrators are to phishing: contacts, privileged roles, phishing-resistant MFA | [Your Admin Emails Leaked: What Comes Next](https://www.solisys.be/blog/entra-connect-health-leak-what-comes-next/) |
 | [token-anatomy](https://github.com/Solisys-Cloud/token-anatomy) | Decode SAML responses, ID tokens and access tokens, and run an OpenID Connect sign-in in your own tenant | [SAML vs OAuth 2.0 vs OpenID Connect](https://www.solisys.be/blog/saml-oauth-oidc-who-is-the-token-for/) |
 
 ## DevOps
